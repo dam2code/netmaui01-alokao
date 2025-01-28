@@ -6,6 +6,7 @@ namespace Maui_app
     {
         public static MauiApp CreateMauiApp()
         {
+            //comentario
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
